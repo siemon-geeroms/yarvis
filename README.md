@@ -1,5 +1,5 @@
 # yarvis
-custom integration that extents the default speech to text engine of home assistant with regex capabilities.
+custom integration that extents the default conversation agent of home assistant with regex capabilities.
 ## Usage/Examples
 
 After the integration is installed succesfully it can be configuered to trigger [intent scripts](https://www.home-assistant.io/integrations/intent_script).
