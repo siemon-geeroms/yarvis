@@ -27,7 +27,7 @@ intent_script:
     action:
       service: script.playMovie
       data:
-        movie: "\{\{movie\}}"
+        movie: "{{movie}}"
   addTask:
     speech:
       text: "{{task}} added to {{project}}"
