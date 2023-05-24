@@ -1,0 +1,14 @@
+{
+  "domain": "yarvis",
+  "name": "yarvis",
+  "codeowners": [
+    "@siemon-geeroms"
+  ],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/yarvis",
+  "homekit": {},
+  "iot_class": "local_push",
+  "version":"1.0.0",
+  "integration_type": "service",
+  "dependencies": ["conversation"]
+}
